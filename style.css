@@ -1,1 +1,31 @@
-
+body {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+.i{
+    font-style: italic;
+}
+  .sender-column {
+    text-align: right;
+  }
+h3{
+  font-style: normal;
+}
+  h1 {
+    font-size: 1.5em;
+  }
+  
+  h2 {
+    font-size: 1.3em;
+  }
+  
+  p,dl,address {
+    font-size: 1.1em;
+  }
+  
+  p, dd, dt,ol,ul, address {
+    line-height: 1.5;
+  }
+  .indent{
+    margin-left: 4ch;
+  }
