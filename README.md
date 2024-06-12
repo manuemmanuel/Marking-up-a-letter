@@ -52,4 +52,4 @@ For this project, your task is to mark up a letter that needs to be hosted on a 
 
 The following screenshot shows an example of what the letter might look like after being marked up.
 
-![Example Screenshot](example-screenshot.png)
+![Example Screenshot](letter-update.png)
